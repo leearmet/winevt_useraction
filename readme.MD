@@ -1,0 +1,1 @@
+Process Windows Security and System evtx files for user start/stop activities.
